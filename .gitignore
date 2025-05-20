@@ -34,11 +34,6 @@ wheels/
 .env.local
 .env.*.local
 
-# Model files (since they can be large)
-*.tflite
-*.h5
-*.pb
-
 # Logs
 *.log
 logs/ 
